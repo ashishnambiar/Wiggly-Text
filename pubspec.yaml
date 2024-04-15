@@ -17,3 +17,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: Roboto-Flex
+      fonts: 
+        - asset: assets/fonts/RobotoFlex-Variable.ttf
